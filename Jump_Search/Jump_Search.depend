@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665145649 source:c:\users\yusuf kaya\c_programlama\jump_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
